@@ -1,6 +1,6 @@
 # Number Guesser Game
 
-This is a simple number guessing game where you compete against the computer. You need to guess a number between 0 and 9, and the computer will also make a guess. The player whose guess is closest to the target number wins the round.
+This is a simple number-guessing game where you compete against the computer. You need to guess a number between 0 and 9, and the computer will also make a guess. The player whose guess is closest to the target number wins the round.
 
 ## How to Play
 
@@ -20,15 +20,11 @@ This is a simple number guessing game where you compete against the computer. Yo
 - `style.css`: Stylesheet for the game.
 - `script.js`: JavaScript file containing the game logic.
 - `game.js`: JavaScript file containing the game functions.
-- `README.md`: This file, containing information about the project.
+- `README.md`: This file, contains information about the project.
 
 ## How to Run
 
-To run the game, simply open the `index.html` file in a web browser.
-
-## Credits
-
-This game was created by [Your Name].
+To run the game, open the `index.html` file in a web browser.
 
 ## License
 
